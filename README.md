@@ -1,4 +1,4 @@
-#Task Based EEG CMD
+#Stim-Task EEG
 
 
 This code has not been tested, cleared, or approved by the U.S. FDA or any other regulator. It is not a medical device and is provided here for informational purposes only. 
